@@ -22,3 +22,15 @@ https://github.com/drxaos/mmx-web
         </dependency>
     </dependencies>
 ```
+
+## Spriter
+https://github.com/drxaos/spriter
+```xml
+    <dependencies>
+        <dependency>
+            <groupId>com.github.drxaos</groupId>
+            <artifactId>spriter</artifactId>
+            <version>1.0</version>
+        </dependency>
+    </dependencies>
+```
